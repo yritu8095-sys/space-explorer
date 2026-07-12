@@ -488,7 +488,7 @@ See [LICENSE](LICENSE) for full details.
 
 *Frontend Developer | Space Enthusiast | Open Source Contributor*
 
-[![GitHub](https://img.shields.io/badge/GitHub-ritu25mib10064--pixel-181717?style=for-the-badge&logo=github&labelColor=0d1428)](https://github.com/ritu25mib10064-pixel)
+
 
 </div>
 
